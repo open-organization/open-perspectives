@@ -224,7 +224,7 @@ At the beginning of what I've called your organization's "hybrid phase," the "to
 
 Fostering open leadership mindsets and behaviors is necessary for moving forward and completing the transition from conventional organization to open one. Open doors for talented leaders, be open to learning from each other, and open new forms of value by recognizing different behaviors, mindsets, and views.
 
-In most organizations, this kind of motivated leadership talent is already present; you just need to give it a place to add value to your organization's open transformation. And you'll need to do quickly, because the war for talent could cause an outflow of people from your organization if you don't.[^talent]
+In most organizations, this kind of motivated leadership talent is already present; you just need to give it a place to add value to your organization's open transformation. And you'll need to do it quickly, because the war for talent could cause an outflow of people from your organization if you don't.[^talent]
 
 Let's examine how this might work.
 
@@ -236,7 +236,7 @@ These leaders will have to approach seasoned and authoritative executives openly
 
 Of course, the same dynamic is necessary in reverse. Learning happens in both directions. By acting as a team, executives will gradually gain insight into (and understanding of) the ways of thinking and behaving that are more common in open organizations. This enables them to adapt to them gradually and become proficient in them over time. Emerging leaders shouldn't expect change to occur instantly.
 
-If your organization has establishing systems for building effective connections between senior leaders and emerging leadership talent during the hybrid phase (and both are willing to learn from each other) you'll see the possibility for real change. The kind of leadership the 21st century demands of us begins with respect for traditional ways of managing—not tossing them out, but reflecting on them and building on the parts of them that truly work.
+If your organization has established systems for building effective connections between senior leaders and emerging leadership talent during the hybrid phase (and both are willing to learn from each other) you'll see the possibility for real change. The kind of leadership the 21st century demands of us begins with respect for traditional ways of managing—not tossing them out, but reflecting on them and building on the parts of them that truly work.
 
 As Dee Hock, founder of Visa, once said: It's not hard to have new ideas, as they come naturally. What's harder is letting go of old ideas.[^oldideas]
 
@@ -276,7 +276,7 @@ Other colleagues will be more skeptical, or assume a "wait and see" approach to 
 
 This is critical, because ultimately you will want people in your organization to *choose* to work openly—not be forced to. You'll want people to experience the benefits of a more open organizational culture and opt into it rather than feel like they're just complying with a mandate.
 
-Yes, this means some people may choose *not* to engage. They may even make a different choice: the choice to leave the organization. They may simply conclude that an open style of work and leadership doesn't fit their preferences. Managers will once again need to be careful. Don't assume that someone's decision to leave your organization is a failure on your part. It may be confirmation the fact that you're facilitating an effective organizational transformation—and the new rules, norms, preferences, and standards are becoming more clear and obvious to everyone.
+Yes, this means some people may choose *not* to engage. They may even make a different choice: the choice to leave the organization. They may simply conclude that an open style of work and leadership doesn't fit their preferences. Managers will once again need to be careful. Don't assume that someone's decision to leave your organization is a failure on your part. It may be confirmation of the fact that you're facilitating an effective organizational transformation—and the new rules, norms, preferences, and standards are becoming more clear and obvious to everyone.
 
 The truth is that your organization's talent can sense whether managers and board members are truly serious about organizational transformation. People will scrutinize your vision and approach and consider whether they're genuine or mere stage dressing. Your most talented emerging leaders expect their managers to set desirable examples when it comes to transparency, trust, and inclusivity. They expect a certain openness to contribution or collaboration from senior leaders. And if you don't live up to your word, then *these* people will make their *own* choice to leave your organization. *That* is something you might consider a failed approach to talent. (And in this case, I'd invite you to consider your own role in the situation.)
 
@@ -284,7 +284,7 @@ Throughout this book on open organizational design and talent management, I've e
 
 Surviving will mean transitioning to a more open organizational model, one built around a leadership style that doesn't rely on formal authority. It also calls for decision-making that considers not only *reason* but also on *feeling*, on heart. Is your "inner world" aligned with your "outer world"? That sense of balance extends to managers, who need to balance their expectations with those of emerging leaders.
 
-Surviving today's rapidly changing business contexts will also force companies to move—not just in the market, but internally as well. This means developing organizational flow; leaders must be able to follow their passions and interests, and the degree to which your organization allows this will whether and how quickly you achieve the kind of organizational balance I mentioned earlier.
+Surviving today's rapidly changing business contexts will also force companies to move—not just in the market, but internally as well. This means developing organizational flow; leaders must be able to follow their passions and interests, and the degree to which your organization allows this will determine whether and how quickly you achieve the kind of organizational balance I mentioned earlier.
 
 The transition to a more open organizational model initially leads to a hybrid situation, where old structures and processes exist alongside newer ones. That can create organizational tensions. By sharing my insights and practical experiences here, I hope to contribute to the creation of safe working environments, where people can develop, flourish, and add their unique value. ◕
 
