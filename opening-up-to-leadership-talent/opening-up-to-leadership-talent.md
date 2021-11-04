@@ -128,6 +128,14 @@ I'm not suggesting that we "lose our heads" to become better leaders, or to buil
 
 So what will you choose? Will you continue to lead with your head alone? Or will you open up? ◕
 
+#### Example: The emotionally sensitive leader
+
+I once found myself talking with a female member of a management team in whom I recognized tremendous leadership talent. She shared with me her frustration at a lack of recognition, respect, and vulnerability from her male colleagues—and seemingly no support from her director. She felt unsafe in the situation and undervalued enough that she was considering leaving. I recognized that her colleagues were thinking with—and assessing her performance based on—purely"head-driven" and ego-based behaviors, disregarding the way someone with clear leadership potential approaches serious issues with gut feelings, emotions, and intuitions. I was doubly dismayed to see this young leader appearing to blame herself for this frustrating situation, as if it were a consequences of her own inadequacies in some way. In fact, she outperformed in growth and result figures! The more we chatted, the more I tried to remind her that others in her organization appeared  to be the ones who had growing to do. She agreed to initiate a conversation about openness and inclusivity with both the director and the management team members to attempt to open things up.
+
+*Have you seen a similar case in your own practice?*
+
+*Thinking openly: How might you help the team embrace this talent?*
+
 ## Optimal flow: Building open organizations where leaders can emerge
 
 To create innovative and engaged organizations, you'll need to set the conditions for open leaders to thrive. This checklist can help.
@@ -212,6 +220,14 @@ So ask yourself:
 
 In the next chapter, I'll address leadership talent in various locations in your organization—at the top, in the middle management, and on the ground. ◕
 
+#### Example: The high-energy leader
+
+A talented and intelligent employee in my organization always seemed to be quite busy; both his behavior and presence were high-energy. Previous managers had inhibited his salary growth, perhaps due to the impression that he's an unfocused person. And yet this employee's positive disposition and good intentions contributed substantially to the organization. When assigned a new manager who began to show appreciation for his abilities, he was able to step into a crucial role as a security office for the organization. The high-energy behavior others might have considered the mark of someone "unfocused" is now something co-workers perceive as a benefit—something that makes him especially good at his job. This leader now encourages others to open up and seek the roles best suited to them. Needless to say, he's gotten his raises—and has found new motivation at work.
+
+*Have you seen a similar case in your own practice?*
+
+*Thinking openly: Does your organization recognize and embrace the neurodiversity of its people? How could it be more inclusive in this way?*
+
 ## To nurture open leaders, managers must learn to let go
 
 Conventional managers and emerging leaders must work together to build open organizations. That requires respect, trust, and curiosity from everyone—and can lead to learning and great joy!
@@ -264,6 +280,14 @@ At the same time, it will be clear to everyone that working together in a team s
 
 Of course, real life and real transitions are often more unruly than the straightforward explanations I've offered here. But the process is worthwhile (and transparency throughout is key). In the next chapter, I'll discuss employees' choice to work on transformation under the guidance of leaders. And I'll also summarize everything we've covered in the series so far, adding a few final tips for managing talent in open organizations. ◕
 
+### Example: The leader who thinks differently
+
+I once met an extremely gifted leader whose years of excellent management work had clearly strengthened the organization. He had developed a reputation for being able to deftly handle crisis situations, and as a result had built a stable (yet over-performing) organization. He was the kind of natural leader that embodied both the spirit and skills necessary for driving organizational transformation in ways that balanced the needs of the organization and its people during times of growth. Many people I spoke to considered this leader a natural candidate for the organization's board. Yet the organization had twice overlooked him when filling vacant board seats; managers who thought and acted similarly to people already on the board received promotions instead. Members insisted this leader was "next in line" for promotion, but didn't offer anything more definitive. A few weeks later, I noticed that this gifted open leader had made himself available for other assignments outside the organization, where he could really contribute and felt appreciated for his talents. Rather than wait, he'd taken his talents elsewhere.
+
+*Have you seen a similar case in your own practice?*
+
+*Thinking openly: Does everyone in your organization understand leaders' criteria and standards for ensuring the best candidate is in the right place in the organization? Could those criteria be more transparent?*
+
 ## What next-generation leaders expect: the choice to work openly
 
 Transformation can only be successful when people opt into it. Forcing people to open up won't work.
@@ -287,6 +311,14 @@ Surviving will mean transitioning to a more open organizational model, one built
 Surviving today's rapidly changing business contexts will also force companies to move—not just in the market, but internally as well. This means developing organizational flow; leaders must be able to follow their passions and interests, and the degree to which your organization allows this will determine whether and how quickly you achieve the kind of organizational balance I mentioned earlier.
 
 The transition to a more open organizational model initially leads to a hybrid situation, where old structures and processes exist alongside newer ones. That can create organizational tensions. By sharing my insights and practical experiences here, I hope to contribute to the creation of safe working environments, where people can develop, flourish, and add their unique value. ◕
+
+#### Example: The overlooked leader
+
+A very talented manager had been working in my organization for several years. As I reflected on his performance over the past four years in particular, I observed tremendous growth and development in his leadership capabilities. In just the previous year alone, he successfully served as a project manager for a number of large clients and really stimulated both openness and growth on his teams. When he applied for an executive position, however, he felt hopeless about his chances. We both recognized that the board had a history of installing pre-selected managers in executive positions. People who weren't working closely with the candidate were likely to view him as "just" a project leader and therefore unsuited to the work—a bit of a rocky foundation for judgment, I thought. Understanding that he didn't expect an interview panel to assess the entirety of his qualifications and his potential for leadership development, I wasn't surprised to find that he'd chosen to seek happiness elsewhere.
+
+*Have you seen a similar case in your own practice?*
+
+*Thinking openly: What might greater transparency and inclusivity contribute to this situation?*
 
 ### Author's note
 
