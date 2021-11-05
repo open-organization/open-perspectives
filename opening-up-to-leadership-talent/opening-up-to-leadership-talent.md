@@ -8,6 +8,8 @@ founder of hbrd
 
 Part of the Open Perspectives series from the Open Organization project
 
+Issue #001
+
 # Executive summary 
 
 - Acknowledge that people are an organization's source of creativity and ingenuity, and that you can unlock it by providing a safe working environment based upon trust, joy, openness and inclusivity.
@@ -24,6 +26,36 @@ Part of the Open Perspectives series from the Open Organization project
 - Let your heart, gut feelings *and* head guide your leadership practice; balancing these is key.
 - Working through a hybrid period of organizational transformation is not easy, but it is dynamic and can be very satisfying.
 - People are not simply a source of production but co-creators; they need spaces that elevate their uniqueness.
+
+## Introduction: Taking an open perspective on talent management
+
+Attracting and retaining young professionals is essential to creating a future-proof organization. After all, they're the leaders of the future. And increasingly, these professionals occupy impactful positions inside our organizations at a relatively young age. But they can remain somewhat elusive because talent is scarce in today's tight labor market.
+
+The Central Bureau of Statistics (CBS) in the Netherlands (where I live and work) reports that in Q3 of 2021, there were even more vacancies than unemployed people. Since the CBS has been measuring stress on the labor market, this has never happened before. The tight labor market makes it more important than ever for employers to have insight into what young professionals find important and why they choose for an organization—and, even more importantly, to have insight into how best to retain young professionals in organizations today.
+
+This generation of young professionals consists largely of millennials, also known as Generation Y. Millennials are the generation born between 1981 and 1996, meaning that today, in 2021, they're roughly 25 to 40 years old. Millennials have grown up in an era full of technological advances in information technology, such as the internet, smartphones, and social media. The subsequent generation, Generation Z, is also entering the workforce today; individuals from this generation were born after 1996 and are also known as "digital natives." They were born in the digital age, do not know a world without the Internet, and, as my fellow Open Organization Ambassador[^ambassadors] Jen Kelchner has observed, implicitly operate according to values and principles we might describe as "open."[^genz]
+
+Young professionals' views on careers differ greatly from those of previous generations. They have different requirements and expectations not only of the work they do, but also of the organizations where they do it. Issues such as room for growth and development and an organization's attention to social issues play a major role in their choice of employer. Organizations will have to pay attention to this—and implement changes to attract and retain the younger generations accordingly.
+
+Retaining young professionals, however, is challenging.
+
+For starters, there's high job mobility among this group of employees. Research by career website magnet.me, which queried more than 300 young professionals, shows that 61% of interviewees changed jobs within 24 months. The most important reason for leaving? Limited growth opportunities within an organization.[^limitedgrowth]
+
+Similarly, research by Careerwise also shows that only 60% of young professionals expect to remain employed by their current employer within one year. This research (which included more than 2,500 young professionals between the ages of 18 and 35) also indicates that the most important reason respondents plan to look for a new job is that there is *too little attention paid to professional development at their current organizations*.[^careergrowth]
+
+Where previous generations worked for years—or even their entire careers—with a single employer, this is no longer a matter of course for younger generations. If workers from these generations experience too little room for professional and personal growth in the workplace, they'll simply look for the next challenge. For organizations, this means that paying attention to talent development is more important than ever.
+
+In line with this renewed urgency, today's circumstances require a different view of talent development, too. Companies typically already offer various development opportunities, but the real challenge lies with board members, supervisors, and managers to really—on a personal level—engage with employees in new ways, with new goals and guiding principles in mind. These principles better align with new generations of workers' worldviews (that is, they require more openness), and they also respond to changing global contexts for work today.
+
+For instance, "work life" and "home life" are no longer as strictly separated as they once were, precisely because of the digital age in which we live. And young professionals have been raised in a context where the boundaries between private and professional life are blurring. Young professionals are not only looking for professional development, but also for personal growth.
+
+Moreover, social issues are not just peripheral matters that they deal with after the workday is over or on weekends. Young people are driving social change, and they more readily speak out about it—on social media, for example. They also expect companies to take responsibility for their roles in global issues, such as sustainability, income inequality, diversity and inclusiveness.
+
+Sustainability, to select just one major issue, is a theme that resonates strongly among younger generations. The Deloitte Global 2021 Millennials and G and Z survey shows that climate change is among the top three biggest concerns for millennials, and is even the greatest concern for Generation Z.[^deloitte] The Millennials Employee Engagement Study from Cone Communicationsv shows that millennials consider this so important that 75% of respondents said they would be willing to sacrifice salary to work at a sustainable organization.[^conecomm]
+
+Millennials and Generation Z want to drive social issues not only privately, but also professionally, and when choosing an employer, they look at the extent to which organizations pay attention to issues that resonate with them. They choose companies that actually want to tackle issues such as sustainability, diversity, and inequality, and that clearly include actions that address these in their organizational policies. Many young professionals strive not only for a better society but also for an ever-improving version of themselves, and they're looking to work for organizations that can help them achieve this.
+
+To help foster a conversation about these changes and their urgency today, I'm offering this Open Perspective on talent management. Here you'll read more about how managers can respond to the development needs of young professionals today—with emphasis on the ways they can embrace open principles and practices to do it. ◕
 
 ## Elevating open leaders
 
@@ -280,7 +312,7 @@ At the same time, it will be clear to everyone that working together in a team s
 
 Of course, real life and real transitions are often more unruly than the straightforward explanations I've offered here. But the process is worthwhile (and transparency throughout is key). In the next chapter, I'll discuss employees' choice to work on transformation under the guidance of leaders. And I'll also summarize everything we've covered in the series so far, adding a few final tips for managing talent in open organizations. ◕
 
-### Example: The leader who thinks differently
+#### Example: The leader who thinks differently
 
 I once met an extremely gifted leader whose years of excellent management work had clearly strengthened the organization. He had developed a reputation for being able to deftly handle crisis situations, and as a result had built a stable (yet over-performing) organization. He was the kind of natural leader that embodied both the spirit and skills necessary for driving organizational transformation in ways that balanced the needs of the organization and its people during times of growth. Many people I spoke to considered this leader a natural candidate for the organization's board. Yet the organization had twice overlooked him when filling vacant board seats; managers who thought and acted similarly to people already on the board received promotions instead. Members insisted this leader was "next in line" for promotion, but didn't offer anything more definitive. A few weeks later, I noticed that this gifted open leader had made himself available for other assignments outside the organization, where he could really contribute and felt appreciated for his talents. Rather than wait, he'd taken his talents elsewhere.
 
@@ -332,8 +364,14 @@ _Join us_
 Join the community-driven, global conversation about the ways open principles change how people work, manage, and lead. Visit theopenorganization.org.
 
 _Copyright_  
-Version 1.0. Copyright © 2021 Red Hat, Inc. All written content licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. Images in Figures 1, 2, and 3 © 2021 hbrd. All rights reserved. Typeset in Red Hat and Source Serif Pro, both licensed under the SIL Open Font License.
+Version 1.1. Copyright © 2021 Red Hat, Inc. All written content licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. Images in Figures 1, 2, and 3 © 2021 hbrd. All rights reserved. Typeset in Red Hat and Source Serif Pro, both licensed under the SIL Open Font License.
 
+[^ambassadors]: https://theopenorganization.org/roster/
+[^genz]: https://opensource.com/open-organization/17/4/openness-and-gen-z
+[^limitedgrowth]: https://magnet.me/downloads/young-professional-rapport-februari-2020.pdf
+[^careergrowth]: https://www.careerwise.nl/young-professionals-en-werk/young-professional-onderzoek/zeker-40-van-de-jonge-werknemers-staat-al-met-een-been-buiten/
+[^deloitte]: https://www2.deloitte.com/mt/en/pages/about-deloitte/articles/millennialsurvey.html
+[^conecomm]: https://static1.squarespace.com/static/56b4a7472b8dde3df5b7013f/t/5819e8b303596e3016ca0d9c/1478092981243/2016+Cone+Communications+Millennial+Employee+Engagement+Study_Press+Release+and+Fact+Sheet.pdf
 [^motivators]: https://opensource.com/open-organization/18/5/rethink-motivation-engagement
 [^principles]: https://theopenorganization.org/definition/open-leadership-definition/
 [^safety]: https://opensource.com/open-organization/19/3/introduction-psychological-safety
@@ -343,6 +381,6 @@ Version 1.0. Copyright © 2021 Red Hat, Inc. All written content licensed under 
 [^engagement]: https://opensource.com/open-organization/18/10/understanding-engagement-empowerment
 [^confidence]: https://opensource.com/open-organization/18/8/7-questions-engaged-meetings
 [^talent]: https://hbr.org/amp/2018/09/innovation-should-be-a-top-priority-for-boards-so-why-isnt-it
-[^oldideas]: https://activerain.com/blogsview/5099783/delete-that-old-outdated-thinking]
+[^oldideas]: https://activerain.com/blogsview/5099783/delete-that-old-outdated-thinking
 [^flow]: https://hbr.org/2021/08/let-your-top-performers-move-around-the-company
 [^hbrd]: http://hbrd.eu/
