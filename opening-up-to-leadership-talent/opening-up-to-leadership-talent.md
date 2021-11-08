@@ -8,6 +8,8 @@ founder of hbrd
 
 Part of the Open Perspectives series from the Open Organization project
 
+Issue #001
+
 # Executive summary 
 
 - Acknowledge that people are an organization's source of creativity and ingenuity, and that you can unlock it by providing a safe working environment based upon trust, joy, openness and inclusivity.
@@ -24,6 +26,38 @@ Part of the Open Perspectives series from the Open Organization project
 - Let your heart, gut feelings *and* head guide your leadership practice; balancing these is key.
 - Working through a hybrid period of organizational transformation is not easy, but it is dynamic and can be very satisfying.
 - People are not simply a source of production but co-creators; they need spaces that elevate their uniqueness.
+
+## Introduction: Taking an open perspective on talent management
+
+Attracting and retaining young professionals is essential to creating a future-proof organization. After all, they're the leaders of the future. And increasingly, these professionals occupy impactful positions inside our organizations at a relatively young age. But they can remain somewhat elusive because talent is scarce in today's tight labor market.
+
+The Central Bureau of Statistics (CBS) in the Netherlands (where I live and work) reports that in Q3 of 2021, there were even more vacancies than unemployed people. Since the CBS has been measuring stress on the labor market, this has never happened before. The tight labor market makes it more important than ever for employers to have insight into what young professionals find important and why they choose for an organization—and, even more importantly, to have insight into how best to retain young professionals in organizations today.
+
+This generation of young professionals consists largely of millennials, also known as Generation Y. Millennials are the generation born between 1981 and 1996, meaning that today, in 2021, they're roughly 25 to 40 years old. Millennials have grown up in an era full of technological advances in information technology, such as the internet, smartphones, and social media. The subsequent generation, Generation Z, is also entering the workforce today; individuals from this generation were born after 1996 and are also known as "digital natives." They were born in the digital age, do not know a world without the Internet, and, as my fellow Open Organization Ambassador[^ambassadors] Jen Kelchner has observed, implicitly operate according to values and principles we might describe as "open."[^genz]
+
+Young professionals' views on careers differ greatly from those of previous generations. They have different requirements and expectations not only of the work they do, but also of the organizations where they do it. Issues such as room for growth and development and an organization's attention to social issues play a major role in their choice of employer. Organizations will have to pay attention to this—and implement changes to attract and retain the younger generations accordingly.
+
+Retaining young professionals, however, is challenging.
+
+For starters, there's high job mobility among this group of employees. Research by career website magnet.me, which queried more than 300 young professionals, shows that 61% of interviewees changed jobs within 24 months. The most important reason for leaving? Limited growth opportunities within an organization.[^limitedgrowth]
+
+Similarly, research by Careerwise also shows that only 60% of young professionals expect to remain employed by their current employer within one year. This research (which included more than 2,500 young professionals between the ages of 18 and 35) also indicates that the most important reason respondents plan to look for a new job is that there is *too little attention paid to professional development at their current organizations*.[^careergrowth]
+
+Where previous generations worked for years—or even their entire careers—with a single employer, this is no longer a matter of course for younger generations. If workers from these generations experience too little room for professional and personal growth in the workplace, they'll simply look for the next challenge. For organizations, this means that paying attention to talent development is more important than ever.
+
+In line with this renewed urgency, today's circumstances require a different view of talent development, too. Companies typically already offer various development opportunities, but the real challenge lies with board members, supervisors, and managers to really—on a personal level—engage with employees in new ways, with new goals and guiding principles in mind. These principles better align with new generations of workers' worldviews (that is, they require more openness), and they also respond to changing global contexts for work today.
+
+For instance, "work life" and "home life" are no longer as strictly separated as they once were, precisely because of the digital age in which we live. And young professionals have been raised in a context where the boundaries between private and professional life are blurring. Young professionals are not only looking for professional development, but also for personal growth.
+
+Moreover, social issues are not just peripheral matters that they deal with after the workday is over or on weekends. Young people are driving social change, and they more readily speak out about it—on social media, for example. They also expect companies to take responsibility for their roles in global issues, such as sustainability, income inequality, diversity and inclusiveness.
+
+Sustainability, to select just one major issue, is a theme that resonates strongly among younger generations. The Deloitte Global 2021 Millennials and G and Z survey shows that climate change is among the top three biggest concerns for millennials, and is even the greatest concern for Generation Z.[^deloitte] The Millennials Employee Engagement Study from Cone Communicationsv shows that millennials consider this so important that 75% of respondents said they would be willing to sacrifice salary to work at a sustainable organization.[^conecomm]
+
+Millennials and Generation Z want to drive social issues not only privately, but also professionally, and when choosing an employer, they look at the extent to which organizations pay attention to issues that resonate with them. They choose companies that actually want to tackle issues such as sustainability, diversity, and inequality, and that clearly include actions that address these in their organizational policies. Many young professionals strive not only for a better society but also for an ever-improving version of themselves, and they're looking to work for organizations that can help them achieve this.
+
+To help foster a conversation about these changes and their urgency today, I'm offering this Open Perspective on talent management. Here you'll read more about how board members, managers, and other leaders can respond to the development needs of young professionals today—with emphasis on the ways they can embrace open principles and practices to do it. I consider this an opportunity to collaborate with new generations of leaders to build more open and sustainable organization.
+
+Are you open to it, too? ◕
 
 ## Elevating open leaders
 
@@ -128,6 +162,14 @@ I'm not suggesting that we "lose our heads" to become better leaders, or to buil
 
 So what will you choose? Will you continue to lead with your head alone? Or will you open up? ◕
 
+#### Example: The emotionally sensitive leader
+
+I once found myself talking with a female member of a management team in whom I recognized tremendous leadership talent. She shared with me her frustration at a lack of recognition, respect, and vulnerability from her male colleagues—and seemingly no support from her director. She felt unsafe in the situation and undervalued enough that she was considering leaving. I recognized that her colleagues were thinking with—and assessing her performance based on—purely"head-driven" and ego-based behaviors, disregarding the way someone with clear leadership potential approaches serious issues with gut feelings, emotions, and intuitions. I was doubly dismayed to see this young leader appearing to blame herself for this frustrating situation, as if it were a consequences of her own inadequacies in some way. In fact, she outperformed in growth and result figures! The more we chatted, the more I tried to remind her that others in her organization appeared  to be the ones who had growing to do. She agreed to initiate a conversation about openness and inclusivity with both the director and the management team members to attempt to open things up.
+
+*Have you seen a similar case in your own practice?*
+
+*Thinking openly: How might you help the team embrace this talent?*
+
 ## Optimal flow: Building open organizations where leaders can emerge
 
 To create innovative and engaged organizations, you'll need to set the conditions for open leaders to thrive. This checklist can help.
@@ -212,6 +254,14 @@ So ask yourself:
 
 In the next chapter, I'll address leadership talent in various locations in your organization—at the top, in the middle management, and on the ground. ◕
 
+#### Example: The high-energy leader
+
+A talented and intelligent employee in my organization always seemed to be quite busy; both his behavior and presence were high-energy. Previous managers had inhibited his salary growth, perhaps due to the impression that he's an unfocused person. And yet this employee's positive disposition and good intentions contributed substantially to the organization. When assigned a new manager who began to show appreciation for his abilities, he was able to step into a crucial role as a security office for the organization. The high-energy behavior others might have considered the mark of someone "unfocused" is now something co-workers perceive as a benefit—something that makes him especially good at his job. This leader now encourages others to open up and seek the roles best suited to them. Needless to say, he's gotten his raises—and has found new motivation at work.
+
+*Have you seen a similar case in your own practice?*
+
+*Thinking openly: Does your organization recognize and embrace the neurodiversity of its people? How could it be more inclusive in this way?*
+
 ## To nurture open leaders, managers must learn to let go
 
 Conventional managers and emerging leaders must work together to build open organizations. That requires respect, trust, and curiosity from everyone—and can lead to learning and great joy!
@@ -224,7 +274,7 @@ At the beginning of what I've called your organization's "hybrid phase," the "to
 
 Fostering open leadership mindsets and behaviors is necessary for moving forward and completing the transition from conventional organization to open one. Open doors for talented leaders, be open to learning from each other, and open new forms of value by recognizing different behaviors, mindsets, and views.
 
-In most organizations, this kind of motivated leadership talent is already present; you just need to give it a place to add value to your organization's open transformation. And you'll need to do quickly, because the war for talent could cause an outflow of people from your organization if you don't.[^talent]
+In most organizations, this kind of motivated leadership talent is already present; you just need to give it a place to add value to your organization's open transformation. And you'll need to do it quickly, because the war for talent could cause an outflow of people from your organization if you don't.[^talent]
 
 Let's examine how this might work.
 
@@ -236,7 +286,7 @@ These leaders will have to approach seasoned and authoritative executives openly
 
 Of course, the same dynamic is necessary in reverse. Learning happens in both directions. By acting as a team, executives will gradually gain insight into (and understanding of) the ways of thinking and behaving that are more common in open organizations. This enables them to adapt to them gradually and become proficient in them over time. Emerging leaders shouldn't expect change to occur instantly.
 
-If your organization has establishing systems for building effective connections between senior leaders and emerging leadership talent during the hybrid phase (and both are willing to learn from each other) you'll see the possibility for real change. The kind of leadership the 21st century demands of us begins with respect for traditional ways of managing—not tossing them out, but reflecting on them and building on the parts of them that truly work.
+If your organization has established systems for building effective connections between senior leaders and emerging leadership talent during the hybrid phase (and both are willing to learn from each other) you'll see the possibility for real change. The kind of leadership the 21st century demands of us begins with respect for traditional ways of managing—not tossing them out, but reflecting on them and building on the parts of them that truly work.
 
 As Dee Hock, founder of Visa, once said: It's not hard to have new ideas, as they come naturally. What's harder is letting go of old ideas.[^oldideas]
 
@@ -264,6 +314,14 @@ At the same time, it will be clear to everyone that working together in a team s
 
 Of course, real life and real transitions are often more unruly than the straightforward explanations I've offered here. But the process is worthwhile (and transparency throughout is key). In the next chapter, I'll discuss employees' choice to work on transformation under the guidance of leaders. And I'll also summarize everything we've covered in the series so far, adding a few final tips for managing talent in open organizations. ◕
 
+#### Example: The leader who thinks differently
+
+I once met an extremely gifted leader whose years of excellent management work had clearly strengthened the organization. He had developed a reputation for being able to deftly handle crisis situations, and as a result had built a stable (yet over-performing) organization. He was the kind of natural leader that embodied both the spirit and skills necessary for driving organizational transformation in ways that balanced the needs of the organization and its people during times of growth. Many people I spoke to considered this leader a natural candidate for the organization's board. Yet the organization had twice overlooked him when filling vacant board seats; managers who thought and acted similarly to people already on the board received promotions instead. Members insisted this leader was "next in line" for promotion, but didn't offer anything more definitive. A few weeks later, I noticed that this gifted open leader had made himself available for other assignments outside the organization, where he could really contribute and felt appreciated for his talents. Rather than wait, he'd taken his talents elsewhere.
+
+*Have you seen a similar case in your own practice?*
+
+*Thinking openly: Does everyone in your organization understand leaders' criteria and standards for ensuring the best candidate is in the right place in the organization? Could those criteria be more transparent?*
+
 ## What next-generation leaders expect: the choice to work openly
 
 Transformation can only be successful when people opt into it. Forcing people to open up won't work.
@@ -276,7 +334,7 @@ Other colleagues will be more skeptical, or assume a "wait and see" approach to 
 
 This is critical, because ultimately you will want people in your organization to *choose* to work openly—not be forced to. You'll want people to experience the benefits of a more open organizational culture and opt into it rather than feel like they're just complying with a mandate.
 
-Yes, this means some people may choose *not* to engage. They may even make a different choice: the choice to leave the organization. They may simply conclude that an open style of work and leadership doesn't fit their preferences. Managers will once again need to be careful. Don't assume that someone's decision to leave your organization is a failure on your part. It may be confirmation the fact that you're facilitating an effective organizational transformation—and the new rules, norms, preferences, and standards are becoming more clear and obvious to everyone.
+Yes, this means some people may choose *not* to engage. They may even make a different choice: the choice to leave the organization. They may simply conclude that an open style of work and leadership doesn't fit their preferences. Managers will once again need to be careful. Don't assume that someone's decision to leave your organization is a failure on your part. It may be confirmation of the fact that you're facilitating an effective organizational transformation—and the new rules, norms, preferences, and standards are becoming more clear and obvious to everyone.
 
 The truth is that your organization's talent can sense whether managers and board members are truly serious about organizational transformation. People will scrutinize your vision and approach and consider whether they're genuine or mere stage dressing. Your most talented emerging leaders expect their managers to set desirable examples when it comes to transparency, trust, and inclusivity. They expect a certain openness to contribution or collaboration from senior leaders. And if you don't live up to your word, then *these* people will make their *own* choice to leave your organization. *That* is something you might consider a failed approach to talent. (And in this case, I'd invite you to consider your own role in the situation.)
 
@@ -284,9 +342,17 @@ Throughout this book on open organizational design and talent management, I've e
 
 Surviving will mean transitioning to a more open organizational model, one built around a leadership style that doesn't rely on formal authority. It also calls for decision-making that considers not only *reason* but also on *feeling*, on heart. Is your "inner world" aligned with your "outer world"? That sense of balance extends to managers, who need to balance their expectations with those of emerging leaders.
 
-Surviving today's rapidly changing business contexts will also force companies to move—not just in the market, but internally as well. This means developing organizational flow; leaders must be able to follow their passions and interests, and the degree to which your organization allows this will whether and how quickly you achieve the kind of organizational balance I mentioned earlier.
+Surviving today's rapidly changing business contexts will also force companies to move—not just in the market, but internally as well. This means developing organizational flow; leaders must be able to follow their passions and interests, and the degree to which your organization allows this will determine whether and how quickly you achieve the kind of organizational balance I mentioned earlier.
 
 The transition to a more open organizational model initially leads to a hybrid situation, where old structures and processes exist alongside newer ones. That can create organizational tensions. By sharing my insights and practical experiences here, I hope to contribute to the creation of safe working environments, where people can develop, flourish, and add their unique value. ◕
+
+#### Example: The overlooked leader
+
+A very talented manager had been working in my organization for several years. As I reflected on his performance over the past four years in particular, I observed tremendous growth and development in his leadership capabilities. In just the previous year alone, he successfully served as a project manager for a number of large clients and really stimulated both openness and growth on his teams. When he applied for an executive position, however, he felt hopeless about his chances. We both recognized that the board had a history of installing pre-selected managers in executive positions. People who weren't working closely with the candidate were likely to view him as "just" a project leader and therefore unsuited to the work—a bit of a rocky foundation for judgment, I thought. Understanding that he didn't expect an interview panel to assess the entirety of his qualifications and his potential for leadership development, I wasn't surprised to find that he'd chosen to seek happiness elsewhere.
+
+*Have you seen a similar case in your own practice?*
+
+*Thinking openly: What might greater transparency and inclusivity contribute to this situation?*
 
 ### Author's note
 
@@ -300,8 +366,14 @@ _Join us_
 Join the community-driven, global conversation about the ways open principles change how people work, manage, and lead. Visit theopenorganization.org.
 
 _Copyright_  
-Version 1.0. Copyright © 2021 Red Hat, Inc. All written content licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. Images in Figures 1, 2, and 3 © 2021 hbrd. All rights reserved. Typeset in Red Hat and Source Serif Pro, both licensed under the SIL Open Font License.
+Version 1.1. Copyright © 2021 Red Hat, Inc. All written content licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. Images in Figures 1, 2, and 3 © 2021 hbrd. All rights reserved. Typeset in Red Hat and Source Serif Pro, both licensed under the SIL Open Font License.
 
+[^ambassadors]: https://theopenorganization.org/roster/
+[^genz]: https://opensource.com/open-organization/17/4/openness-and-gen-z
+[^limitedgrowth]: https://magnet.me/downloads/young-professional-rapport-februari-2020.pdf
+[^careergrowth]: https://www.careerwise.nl/young-professionals-en-werk/young-professional-onderzoek/zeker-40-van-de-jonge-werknemers-staat-al-met-een-been-buiten/
+[^deloitte]: https://www2.deloitte.com/mt/en/pages/about-deloitte/articles/millennialsurvey.html
+[^conecomm]: https://static1.squarespace.com/static/56b4a7472b8dde3df5b7013f/t/5819e8b303596e3016ca0d9c/1478092981243/2016+Cone+Communications+Millennial+Employee+Engagement+Study_Press+Release+and+Fact+Sheet.pdf
 [^motivators]: https://opensource.com/open-organization/18/5/rethink-motivation-engagement
 [^principles]: https://theopenorganization.org/definition/open-leadership-definition/
 [^safety]: https://opensource.com/open-organization/19/3/introduction-psychological-safety
@@ -311,6 +383,6 @@ Version 1.0. Copyright © 2021 Red Hat, Inc. All written content licensed under 
 [^engagement]: https://opensource.com/open-organization/18/10/understanding-engagement-empowerment
 [^confidence]: https://opensource.com/open-organization/18/8/7-questions-engaged-meetings
 [^talent]: https://hbr.org/amp/2018/09/innovation-should-be-a-top-priority-for-boards-so-why-isnt-it
-[^oldideas]: https://activerain.com/blogsview/5099783/delete-that-old-outdated-thinking]
+[^oldideas]: https://activerain.com/blogsview/5099783/delete-that-old-outdated-thinking
 [^flow]: https://hbr.org/2021/08/let-your-top-performers-move-around-the-company
 [^hbrd]: http://hbrd.eu/
