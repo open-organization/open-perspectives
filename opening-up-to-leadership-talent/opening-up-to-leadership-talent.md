@@ -55,7 +55,9 @@ Sustainability, to select just one major issue, is a theme that resonates strong
 
 Millennials and Generation Z want to drive social issues not only privately, but also professionally, and when choosing an employer, they look at the extent to which organizations pay attention to issues that resonate with them. They choose companies that actually want to tackle issues such as sustainability, diversity, and inequality, and that clearly include actions that address these in their organizational policies. Many young professionals strive not only for a better society but also for an ever-improving version of themselves, and they're looking to work for organizations that can help them achieve this.
 
-To help foster a conversation about these changes and their urgency today, I'm offering this Open Perspective on talent management. Here you'll read more about how managers can respond to the development needs of young professionals today—with emphasis on the ways they can embrace open principles and practices to do it. ◕
+To help foster a conversation about these changes and their urgency today, I'm offering this Open Perspective on talent management. Here you'll read more about how board members, managers, and other leaders can respond to the development needs of young professionals today—with emphasis on the ways they can embrace open principles and practices to do it. I consider this an opportunity to collaborate with new generations of leaders to build more open and sustainable organization.
+
+Are you open to it, too? ◕
 
 ## Elevating open leaders
 
