@@ -27,7 +27,7 @@ Issue #001
 - Working through a hybrid period of organizational transformation is not easy, but it is dynamic and can be very satisfying.
 - People are not simply a source of production but co-creators; they need spaces that elevate their uniqueness.
 
-## Preface
+## Foreword
 
 As Chief People Officer at an open organization, Red Hat, and now in my work as an executive advisor and coach, regardless of the organization's size or maturity, I hear business leaders raising the same concerns: How do we attract and engage the most talented, high performing people in our industry to enable us to achieve our potential?
 
@@ -99,7 +99,7 @@ All these elements of success are connected to employees' creativity and ingenui
 
 ### Open and safe working environment
 
-Companies that traditionally base their services, governance, and strategic execution on hierarchy and the authority embedded in their systems, processes, and management structure rarely leave room for this kind of open talent development. In these systems, good ideas (from leadership talent) too often get "stuck" in bureaucracies, and authority to lead is primarily based on tenure and seniority, not on talent. Moreover, traditionally minded executive teams and managers don't always have an adequate eye for leadership talent. Managers tend to appreciate managers (look-alikes and think-alikes), and for that reason they often overlook unconventional leadership talent. Making judgments based on conventional criteria means most managers lack the kind of open attitude necessary for discovering and exploring new energies, talents, and skills that might unfold across the organization. You might say they've lost too much of their curiosity and instead are "stuck" in personal convictions derived from past experience—all the ways the past has shaped their ways of thinking and acting.
+Companies that traditionally base their services, governance, and strategic execution on hierarchy and the authority embedded in their systems, processes, and management structure rarely leave room for this kind of open talent development. In these systems, good ideas (from leadership talent) too often get "stuck" in bureaucracies, and authority to lead is primarily based on tenure and seniority, not on talent. Moreover, traditionally minded executive teams and managers don't always have an adequate eye for leadership talent. Managers tend to appreciate managers (look-alikes and think-alikes), and for that reason they often overlook unconventional leadership talent. Making judgments based on conventional criteria means most managers lack the kind of open attitude necessary for discovering and exploring new energies, talents, and skills that might unfold across the organization. You might say they've lost too much of their curiosity and instead are "stuck" in personal convictions derived from past experience—all the ways the past has shaped their ways of thinking and acting—while elevating business priorities over talent flow.
 
 So there is the first challenge! We need leaders who can remain focused on nurturing new forms of leadership talent. That's the first step to balancing management and leadership at the top of an organizational structure.
 
@@ -382,7 +382,7 @@ _Join us_
 Join the community-driven, global conversation about the ways open principles change how people work, manage, and lead. Visit theopenorganization.org.
 
 _Copyright_  
-Version 1.1. Copyright © 2021 Red Hat, Inc. All written content licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. Images in Figures 1, 2, and 3 © 2021 hbrd. All rights reserved. Typeset in Red Hat and Source Serif Pro, both licensed under the SIL Open Font License.
+Version 1.2. Copyright © 2021 Red Hat, Inc. All written content licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. Images in Figures 1, 2, and 3 © 2021 hbrd. All rights reserved. Typeset in Red Hat and Source Serif Pro, both licensed under the SIL Open Font License.
 
 [^ambassadors]: https://theopenorganization.org/roster/
 [^genz]: https://opensource.com/open-organization/17/4/openness-and-gen-z
