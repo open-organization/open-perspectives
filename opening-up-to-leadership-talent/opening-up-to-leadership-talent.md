@@ -4,7 +4,7 @@ A guide to unlocking people's potential during transformation
 
 Jos Groen
 
-founder of hbrd
+Open Organization Ambassador and Founder of hbrd
 
 Part of the Open Perspectives series from the Open Organization project
 
@@ -27,6 +27,22 @@ Issue #001
 - Working through a hybrid period of organizational transformation is not easy, but it is dynamic and can be very satisfying.
 - People are not simply a source of production but co-creators; they need spaces that elevate their uniqueness.
 
+## Foreword
+
+As Chief People Officer at an open organization, Red Hat, and now in my work as an executive advisor and coach, regardless of the organization's size or maturity, I hear business leaders raising the same concerns: How do we attract and engage the most talented, high performing people in our industry to enable us to achieve our potential?
+
+The question has become a greater concern to most, as the values of many in the workforce have shifted significantly, not only as a function of generational differences, but also as the pandemic accelerates changes in expectations of the work experience. 
+
+My own experience leads me to have a deep faith that the answer to this question lies in the brilliance of the people themselves. When engaged, it is the people who will create solutions to the big problems of the workplace as well as the world. At Red Hat, we strived to default to open in our practices, and on our best days, we did so, with extraordinary results. From consulting with many of our customers—and now with my own clients—I learned just how difficult it can be for an organization to build and adopt new open practices. So I was intrigued and excited when Open Organization Ambassador and founder of hbrd, Jos Groen, shared the idea of creating a guide for organizational leaders to follow to build the open organizational "muscle."
+
+And the book delivers just that. It is a one stop shop for talent managers to understand open principles and practices. The book offers talent managers support in building a roadmap in adopting more open and inclusive practices and for harnessing the brilliance of the talent in their organization to drive business performance. 
+
+I particularly appreciate how Jos acknowledges that most organizations will exist in a "hybrid" state where prior traditional practices and new, open practices must co-exist, and where both emerging talent and experienced leaders must respect each other's perspectives. This hybrid state will bring tensions that must be worked through. But like most situations, people learn and grow by overcoming challenges and working through issues. Embracing the tension is critically important to building open organizational muscles.
+
+If you want to cultivate an organizational culture that harnesses the brilliance and passion of your people, this book is an excellent resource to get started.
+
+*DeLisa Alexander, Executive Coach and Board Director*
+
 ## Introduction: Taking an open perspective on talent management
 
 Attracting and retaining young professionals is essential to creating a future-proof organization. After all, they're the leaders of the future. And increasingly, these professionals occupy impactful positions inside our organizations at a relatively young age. But they can remain somewhat elusive because talent is scarce in today's tight labor market.
@@ -45,7 +61,7 @@ Similarly, research by Careerwise also shows that only 60% of young professional
 
 Where previous generations worked for years—or even their entire careers—with a single employer, this is no longer a matter of course for younger generations. If workers from these generations experience too little room for professional and personal growth in the workplace, they'll simply look for the next challenge. For organizations, this means that paying attention to talent development is more important than ever.
 
-In line with this renewed urgency, today's circumstances require a different view of talent development, too. Companies typically already offer various development opportunities, but the real challenge lies with board members, supervisors, and managers to really—on a personal level—engage with employees in new ways, with new goals and guiding principles in mind. These principles better align with new generations of workers' worldviews (that is, they require more openness), and they also respond to changing global contexts for work today.
+In line with this renewed urgency, today's circumstances require a different view of talent development, too. Companies typically already offer various development opportunities, but the real challenge lies with executives, supervisors, and managers to really—on a personal level—engage with employees in new ways, with new goals and guiding principles in mind. These principles better align with new generations of workers' worldviews (that is, they require more openness), and they also respond to changing global contexts for work today.
 
 For instance, "work life" and "home life" are no longer as strictly separated as they once were, precisely because of the digital age in which we live. And young professionals have been raised in a context where the boundaries between private and professional life are blurring. Young professionals are not only looking for professional development, but also for personal growth.
 
@@ -55,7 +71,7 @@ Sustainability, to select just one major issue, is a theme that resonates strong
 
 Millennials and Generation Z want to drive social issues not only privately, but also professionally, and when choosing an employer, they look at the extent to which organizations pay attention to issues that resonate with them. They choose companies that actually want to tackle issues such as sustainability, diversity, and inequality, and that clearly include actions that address these in their organizational policies. Many young professionals strive not only for a better society but also for an ever-improving version of themselves, and they're looking to work for organizations that can help them achieve this.
 
-To help foster a conversation about these changes and their urgency today, I'm offering this Open Perspective on talent management. Here you'll read more about how board members, managers, and other leaders can respond to the development needs of young professionals today—with emphasis on the ways they can embrace open principles and practices to do it. I consider this an opportunity to collaborate with new generations of leaders to build more open and sustainable organization.
+To help foster a conversation about these changes and their urgency today, I'm offering this Open Perspective on talent management. Here you'll read more about how executives, managers, and other leaders can respond to the development needs of young professionals today—with emphasis on the ways they can embrace open principles and practices to do it. I consider this an opportunity to collaborate with new generations of leaders to build more open and sustainable organization.
 
 Are you open to it, too? ◕
 
@@ -83,7 +99,7 @@ All these elements of success are connected to employees' creativity and ingenui
 
 ### Open and safe working environment
 
-Companies that traditionally base their services, governance, and strategic execution on hierarchy and the authority embedded in their systems, processes, and management structure rarely leave room for this kind of open talent development. In these systems, good ideas (from leadership talent) too often get "stuck" in bureaucracies, and authority to lead is primarily based on tenure and seniority, not on talent. Moreover, traditionally minded board members and management don't always have an adequate eye for leadership talent. Managers tend to appreciate managers (look-alikes and think-alikes), and for that reason they often overlook unconventional leadership talent. Making judgments based on conventional criteria means most managers lack the kind of open attitude necessary for discovering and exploring new energies, talents, and skills that might unfold across the organization. You might say they've lost too much of their curiosity and instead are "stuck" in personal convictions derived from past experience—all the ways the past has shaped their ways of thinking and acting.
+Companies that traditionally base their services, governance, and strategic execution on hierarchy and the authority embedded in their systems, processes, and management structure rarely leave room for this kind of open talent development. In these systems, good ideas (from leadership talent) too often get "stuck" in bureaucracies, and authority to lead is primarily based on tenure and seniority, not on talent. Moreover, traditionally minded executive teams and managers don't always have an adequate eye for leadership talent. Managers tend to appreciate managers (look-alikes and think-alikes), and for that reason they often overlook unconventional leadership talent. Making judgments based on conventional criteria means most managers lack the kind of open attitude necessary for discovering and exploring new energies, talents, and skills that might unfold across the organization. You might say they've lost too much of their curiosity and instead are "stuck" in personal convictions derived from past experience—all the ways the past has shaped their ways of thinking and acting—while elevating business priorities over talent flow.
 
 So there is the first challenge! We need leaders who can remain focused on nurturing new forms of leadership talent. That's the first step to balancing management and leadership at the top of an organizational structure.
 
@@ -230,14 +246,14 @@ So ask yourself:
 
 ### The space to practice
 
-Leadership talent must be given time and space to practice; this will lay the foundation for their success. For example, you might offer highly skilled and motivated employees an opportunity to present to the board, or even to a group of colleagues. Or you can give potential leaders a consulting role on the board. Have them prepare and chair important meetings. Have them research and prepare reports.  Nothing is more important than teaching them to dig deeper into a subject they're responsible for. You can also think about giving them a significant project or task that will introduce them to some aspects of leadership and collaboration.
+Leadership talent must be given time and space to practice; this will lay the foundation for their success. For example, you might offer highly skilled and motivated employees an opportunity to present to the executive team, or even to a group of colleagues. Or you can give potential leaders a consulting role on the executive team. Have them prepare and chair important meetings. Have them research and prepare reports.  Nothing is more important than teaching them to dig deeper into a subject they're responsible for. You can also think about giving them a significant project or task that will introduce them to some aspects of leadership and collaboration.
 
 So ask yourself:
 
 - How can I create opportunities for my emerging leaders to gain visibility?
 - Am I available for mentoring and coaching?
 - How can I better understand what my younger leaders care about?
-- Am I able to get the board to look at the effort in an appreciative way, so that the appropriate judgment is absent to keep it safe for the talent?
+- Am I able to get the executive team to look at the effort in an appreciative way, so that the appropriate judgment is absent to keep it safe for the talent?
 
 ### Model what you seek
 
@@ -294,7 +310,7 @@ As Dee Hock, founder of Visa, once said: It's not hard to have new ideas, as the
 
 Now let's look at the role senior leaders will play in this balancing process.
 
-Senior leaders and managers will need to understand that shifting and rotating leaders through various board and leadership positions in an organization—perhaps as often as every three to four years—is a healthy practice for an organization. It allows the kind of fluidity that leadership talent needs in order to emerge and make an impact on some aspect of the organization. As a leader, you'll need to admit that this involves nurturing the talent your employees already have and then, when the time is right, stepping aside. This creates the kind of flow that encourages personal development at all layers of the organization and fosters a spirit of continuous improvement throughout.[^flow]
+Senior leaders and managers will need to understand that shifting and rotating leaders through various executive and leadership positions in an organization—perhaps as often as every three to four years—is a healthy practice for an organization. It allows the kind of fluidity that leadership talent needs in order to emerge and make an impact on some aspect of the organization. As a leader, you'll need to admit that this involves nurturing the talent your employees already have and then, when the time is right, stepping aside. This creates the kind of flow that encourages personal development at all layers of the organization and fosters a spirit of continuous improvement throughout.[^flow]
 
 In more traditionally run organizations, a management team determines if the time is right to move on. That is, it's a decision that comes "from the top" and usually involves some discussion of factors like "results," "status," and whether the move is in *senior management's* interests. Unfortunately, that consideration isn't usually connected to talent, competences, or skills.
 
@@ -316,7 +332,7 @@ Of course, real life and real transitions are often more unruly than the straigh
 
 #### Example: The leader who thinks differently
 
-I once met an extremely gifted leader whose years of excellent management work had clearly strengthened the organization. He had developed a reputation for being able to deftly handle crisis situations, and as a result had built a stable (yet over-performing) organization. He was the kind of natural leader that embodied both the spirit and skills necessary for driving organizational transformation in ways that balanced the needs of the organization and its people during times of growth. Many people I spoke to considered this leader a natural candidate for the organization's board. Yet the organization had twice overlooked him when filling vacant board seats; managers who thought and acted similarly to people already on the board received promotions instead. Members insisted this leader was "next in line" for promotion, but didn't offer anything more definitive. A few weeks later, I noticed that this gifted open leader had made himself available for other assignments outside the organization, where he could really contribute and felt appreciated for his talents. Rather than wait, he'd taken his talents elsewhere.
+I once met an extremely gifted leader whose years of excellent management work had clearly strengthened the organization. He had developed a reputation for being able to deftly handle crisis situations, and as a result had built a stable (yet over-performing) organization. He was the kind of natural leader that embodied both the spirit and skills necessary for driving organizational transformation in ways that balanced the needs of the organization and its people during times of growth. Many people I spoke to considered this leader a natural candidate for the organization's executive team. Yet the organization had twice overlooked him when filling vacant seats on the team; managers who thought and acted similarly to people already on the management team received promotions instead. Members insisted this leader was "next in line" for promotion, but didn't offer anything more definitive. A few weeks later, I noticed that this gifted open leader had made himself available for other assignments outside the organization, where he could really contribute and felt appreciated for his talents. Rather than wait, he'd taken his talents elsewhere.
 
 *Have you seen a similar case in your own practice?*
 
@@ -326,7 +342,7 @@ I once met an extremely gifted leader whose years of excellent management work h
 
 Transformation can only be successful when people opt into it. Forcing people to open up won't work.
 
-Earlier in this book, I argued that emerging, talented leaders need space to flow to those places in the organization where they add value based on their unique talents and intrinsic motivations. If the organization's management and senior management set the right examples, extend trust, and listen, they can greatly accelerate the organization's transformation to a more open culture. But talent needs access to an organization's cliques and inner circles, its boards and executive teams, to really kick-start the kind of collaboration and mutual learning that will move the organization forward and create sustainable succession.
+Earlier in this book, I argued that emerging, talented leaders need space to flow to those places in the organization where they add value based on their unique talents and intrinsic motivations. If the organization's management and senior management set the right examples, extend trust, and listen, they can greatly accelerate the organization's transformation to a more open culture. But talent needs access to an organization's cliques and inner circles, its management and executive teams, to really kick-start the kind of collaboration and mutual learning that will move the organization forward and create sustainable succession.
 
 This won't just benefit these up-and-coming leaders; unleashing your inspired and high-performing employees can impact many colleagues in the organization. People will find this new energy attractive and want to tap into it. The result: increased curiosity, joy, ownership, a desire to remain at the organization, and genuine pleasure in their work.
 
@@ -336,7 +352,7 @@ This is critical, because ultimately you will want people in your organization t
 
 Yes, this means some people may choose *not* to engage. They may even make a different choice: the choice to leave the organization. They may simply conclude that an open style of work and leadership doesn't fit their preferences. Managers will once again need to be careful. Don't assume that someone's decision to leave your organization is a failure on your part. It may be confirmation of the fact that you're facilitating an effective organizational transformation—and the new rules, norms, preferences, and standards are becoming more clear and obvious to everyone.
 
-The truth is that your organization's talent can sense whether managers and board members are truly serious about organizational transformation. People will scrutinize your vision and approach and consider whether they're genuine or mere stage dressing. Your most talented emerging leaders expect their managers to set desirable examples when it comes to transparency, trust, and inclusivity. They expect a certain openness to contribution or collaboration from senior leaders. And if you don't live up to your word, then *these* people will make their *own* choice to leave your organization. *That* is something you might consider a failed approach to talent. (And in this case, I'd invite you to consider your own role in the situation.)
+The truth is that your organization's talent can sense whether managers and executives are truly serious about organizational transformation. People will scrutinize your vision and approach and consider whether they're genuine or mere stage dressing. Your most talented emerging leaders expect their managers to set desirable examples when it comes to transparency, trust, and inclusivity. They expect a certain openness to contribution or collaboration from senior leaders. And if you don't live up to your word, then *these* people will make their *own* choice to leave your organization. *That* is something you might consider a failed approach to talent. (And in this case, I'd invite you to consider your own role in the situation.)
 
 Throughout this book on open organizational design and talent management, I've explained how the speed and strength of your organization will determine your success in a new economic environment, one where new ideas are toppling some longstanding older ideas. These new ideas spring from the creativity and resourcefulness of your employees, but they can only do that in a safe and more open working environment. So we urgently need more focus on balancing people's needs and the business' needs inside our organizations. Your goal is igniting passion and performance, and you're able to do this when people feel free and invited to contribute to the organization's purpose—not when they're commanded to by command-and-control structures. Unfortunately, too few organizations don't strike that balance. When they don't, they see the consequences: loss of competitive position in this rapidly changing market.
 
@@ -348,7 +364,7 @@ The transition to a more open organizational model initially leads to a hybrid s
 
 #### Example: The overlooked leader
 
-A very talented manager had been working in my organization for several years. As I reflected on his performance over the past four years in particular, I observed tremendous growth and development in his leadership capabilities. In just the previous year alone, he successfully served as a project manager for a number of large clients and really stimulated both openness and growth on his teams. When he applied for an executive position, however, he felt hopeless about his chances. We both recognized that the board had a history of installing pre-selected managers in executive positions. People who weren't working closely with the candidate were likely to view him as "just" a project leader and therefore unsuited to the work—a bit of a rocky foundation for judgment, I thought. Understanding that he didn't expect an interview panel to assess the entirety of his qualifications and his potential for leadership development, I wasn't surprised to find that he'd chosen to seek happiness elsewhere.
+A very talented manager had been working in my organization for several years. As I reflected on his performance over the past four years in particular, I observed tremendous growth and development in his leadership capabilities. In just the previous year alone, he successfully served as a project manager for a number of large clients and really stimulated both openness and growth on his teams. When he applied for an executive position, however, he felt hopeless about his chances. We both recognized that the the executive team had a history of installing pre-selected managers in executive positions. People who weren't working closely with the candidate were likely to view him as "just" a project leader and therefore unsuited to the work—a bit of a rocky foundation for judgment, I thought. Understanding that he didn't expect an interview panel to assess the entirety of his qualifications and his potential for leadership development, I wasn't surprised to find that he'd chosen to seek happiness elsewhere.
 
 *Have you seen a similar case in your own practice?*
 
@@ -366,7 +382,7 @@ _Join us_
 Join the community-driven, global conversation about the ways open principles change how people work, manage, and lead. Visit theopenorganization.org.
 
 _Copyright_  
-Version 1.1. Copyright © 2021 Red Hat, Inc. All written content licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. Images in Figures 1, 2, and 3 © 2021 hbrd. All rights reserved. Typeset in Red Hat and Source Serif Pro, both licensed under the SIL Open Font License.
+Version 1.2. Copyright © 2021 Red Hat, Inc. All written content licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. Images in Figures 1, 2, and 3 © 2021 hbrd. All rights reserved. Typeset in Red Hat and Source Serif Pro, both licensed under the SIL Open Font License.
 
 [^ambassadors]: https://theopenorganization.org/roster/
 [^genz]: https://opensource.com/open-organization/17/4/openness-and-gen-z
