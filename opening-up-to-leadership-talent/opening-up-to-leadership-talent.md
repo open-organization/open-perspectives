@@ -4,7 +4,7 @@ A guide to unlocking people's potential during transformation
 
 Jos Groen
 
-founder of hbrd
+Open Organization Ambassador and Founder of hbrd
 
 Part of the Open Perspectives series from the Open Organization project
 
