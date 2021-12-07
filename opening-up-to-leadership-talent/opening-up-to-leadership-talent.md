@@ -27,6 +27,22 @@ Issue #001
 - Working through a hybrid period of organizational transformation is not easy, but it is dynamic and can be very satisfying.
 - People are not simply a source of production but co-creators; they need spaces that elevate their uniqueness.
 
+## Preface
+
+As Chief People Officer at an open organization, Red Hat, and now in my work as an executive advisor and coach, regardless of the organization's size or maturity, I hear business leaders raising the same concerns: How do we attract and engage the most talented, high performing people in our industry to enable us to achieve our potential?
+
+The question has become a greater concern to most, as the values of many in the workforce have shifted significantly, not only as a function of generational differences, but also as the pandemic accelerates changes in expectations of the work experience. 
+
+My own experience leads me to have a deep faith that the answer to this question lies in the brilliance of the people themselves. When engaged, it is the people who will create solutions to the big problems of the workplace as well as the world. At Red Hat, we strived to default to open in our practices, and on our best days, we did so, with extraordinary results. From consulting with many of our customers—and now with my own clients—I learned just how difficult it can be for an organization to build and adopt new open practices. So I was intrigued and excited when Open Organization Ambassador and founder of hbrd, Jos Groen, shared the idea of creating a guide for organizational leaders to follow to build the open organizational "muscle."
+
+And the book delivers just that. It is a one stop shop for talent managers to understand open principles and practices. The book offers talent managers support in building a roadmap in adopting more open and inclusive practices and for harnessing the brilliance of the talent in their organization to drive business performance. 
+
+I particularly appreciate how Jos acknowledges that most organizations will exist in a "hybrid" state where prior traditional practices and new, open practices must co-exist, and where both emerging talent and experienced leaders must respect each other's perspectives. This hybrid state will bring tensions that must be worked through. But like most situations, people learn and grow by overcoming challenges and working through issues. Embracing the tension is critically important to building open organizational muscles.
+
+If you want to cultivate an organizational culture that harnesses the brilliance and passion of your people, this book is an excellent resource to get started.
+
+*DeLisa Alexander, Executive Coach and Board Director*
+
 ## Introduction: Taking an open perspective on talent management
 
 Attracting and retaining young professionals is essential to creating a future-proof organization. After all, they're the leaders of the future. And increasingly, these professionals occupy impactful positions inside our organizations at a relatively young age. But they can remain somewhat elusive because talent is scarce in today's tight labor market.
