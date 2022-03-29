@@ -4,7 +4,7 @@ A tactical guide for bringing open and mission-driven organizations together
 
 Laura Hilliger, We Are Open Cooperative
 &
-Heather Leson, Solferio Academy, International Federation of Red Cross and Red Crescent Societies
+Heather Leson
 
 Part of the Open Perspectives series from the Open Organization project
 
@@ -222,7 +222,6 @@ So what are your next steps? If this *Open Perspective* resonated with you—if 
 Laura Hilliger is a writer, educator and technologist. She's a conceptual architect, designer, developer, product owner, technical liaison, and project manager—in short, she's an expert in open source and movement making. Laura won the 2020 Digital Leader of the Year Award from Women in IT for her work advocating for openness in global non-governmental organizations. She is a co-founder of We Are Open Co-op, a cooperative working with social impact-focused organizations.[^we-are-open-coop] After spending more than five years at Mozilla, she became an Open Organization Ambassador[^open-org-roster] and has spent much of the last six years working with Greenpeace International.[^greenpeace] Laura has a couple of university degrees and loads of Open Badges.
 
 *Heather Leson*  
-Driven by a world where everyone lends a hand, Heather Leson works at the intersection of social impact, strategy, technology, and open principles, delivering innovative products and experiences with global networks. Using hybrid skills of participatory design expertise, global network engagement, partnership building, and open collaboration methods, she has led strategic organizational transformation for both Ushahidi and Humanitarian OpenStreetMap Team. In 2021, she co-lead of the International Federation of Red Cross and Red Crescent Societies (IFRC) Digital Transformation strategy. As an Open Organization Ambassador, Heather has worked for many open organizations, including serving as the Board Member of both the OpenStreetMap Foundation and Humanitarian OpenStreetMap Team.
 
 *Join us*  
 Join the community-driven, global conversation about the ways open principles change how people work, manage, and lead. Visit theopenorganization.org.
