@@ -2,11 +2,8 @@ Opening up social impact-focused organizations
 
 A tactical guide for bringing open and mission-driven organizations together
 
-Laura Hilliger, We Are Open Cooperative
-
-&
-
-Heather Leson
+Laura Hilliger & Heather Leson
+Open Organization Ambassadors
 
 Part of the Open Perspectives series from the Open Organization project
 
@@ -52,7 +49,7 @@ In this tactical guide, you'll find examples of tools and behaviors that can hel
 
 Across the global, federated International Federation of Red Cross and Red Crescent Societies (IFRC), many products, services, and programs have included components supporting greater openness, but no specific strategy or policy documents mentioned open principles explicitly. One IFRC project from 2016, the GO platform, utilized an open technology stack, building on the use of OpenDataKit and Kobo.[^go-platform] It was the catalyst for the organization's first-ever data literacy program, which fostered to support digital transformation using open methods. IFRC joined Missing Maps[^missing-maps] (part of the wider Humanitarian OpenStreetMap Team (HOT).[^humanitarian-openstreetmap] Crafted for teams to learn about data literacy, open data, and open collaboration, the IFRC Data Playbook is an extensive, collaboratively written toolkit.[^ifrc-data-playbook]
 
-[ed note - revised] The IFRC built on the learning from these initiatives and elsewhere in its network to develop a new Strategy 2030, which mobilized participation across its diverse network and whose early research shows alignment with open principles, and a strategy specifically dedicated to Digital Transformation as one of the seven transformations identified in in Strategy 2030.[5] By working out loud, convening like minds, and fostering a shared journey, the organization’s narrative around openness became concrete as clear global examples surfaced. So did the organization’s open agenda.
+The IFRC built on the learning from these initiatives and elsewhere in its network to develop a new Strategy 2030, which mobilized participation across its diverse network and whose early research shows alignment with open principles, and a strategy specifically dedicated to Digital Transformation as one of the seven transformations identified in Strategy 2030. By working out loud, convening like minds, and fostering a shared journey, the organization’s narrative around openness became concrete as clear global examples surfaced. So did the organization’s open agenda.
  
 
 Getting "open" into a global strategy for the largest humanitarian network in the world was a team sport. By using research, insights, and examples—plus products and services—the narrative that open principles are design principles and open methods should be part of the "menu" for digital transformation as national societies and the IFRC Secretariat made its way into implementation plans. The International Federation of Red Cross Red Crescent Societies' Digital Transformation strategy, as approved by the IFRC Governing Board in May 2021, includes open source and open data as proposed approaches.[^digital-transformation-society]
