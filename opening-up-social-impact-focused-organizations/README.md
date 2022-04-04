@@ -1,4 +1,4 @@
-# Opening Up to Leadership Talent
+# Opening Up Social Impact-Focused Organizations
 This repository contains files related to *Opening Up Social Impact-Focused Organizations* by Laura Hilliger and Heather Leson, part of the [Open Perspectives series](https://github.com/open-organization/open-perspectives) from the Open Organization project.
 
 ## About the perspective
