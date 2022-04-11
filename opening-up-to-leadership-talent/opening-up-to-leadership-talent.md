@@ -71,9 +71,9 @@ Sustainability, to select just one major issue, is a theme that resonates strong
 
 Millennials and Generation Z want to drive social issues not only privately, but also professionally, and when choosing an employer, they look at the extent to which organizations pay attention to issues that resonate with them. They choose companies that actually want to tackle issues such as sustainability, diversity, and inequality, and that clearly include actions that address these in their organizational policies. Many young professionals strive not only for a better society but also for an ever-improving version of themselves, and they're looking to work for organizations that can help them achieve this.
 
-To help foster a conversation about these changes and their urgency today, I'm offering this Open Perspective on talent management. Here you'll read more about how executives, managers, and other leaders can respond to the development needs of young professionals today—with emphasis on the ways they can embrace open principles and practices to do it. I consider this an opportunity to collaborate with new generations of leaders to build more open and sustainable organization.
+To help foster a conversation about these changes and their urgency today, I'm offering this *Open Perspective* on talent management. Here you'll read more about how executives, managers, and other leaders can respond to the development needs of young professionals today—with emphasis on the ways they can embrace open principles and practices to do it. Along the way, I present some case studies for your reflection and consideration. Drawn from my own experience as an open leader, these examples ask you to reflect on your own leadership choices and challenges as you consider becoming a more open leader yourself.
 
-Are you open to it, too? ◕
+I consider this an opportunity to collaborate with new generations of leaders to build more open and sustainable organization. Are you open to it, too? ◕
 
 ## Elevating open leaders
 
@@ -369,6 +369,24 @@ A very talented manager had been working in my organization for several years. A
 *Have you seen a similar case in your own practice?*
 
 *Thinking openly: What might greater transparency and inclusivity contribute to this situation?*
+
+## Conclusion: Imagining open leadership
+
+Throughout this *Open Perspective*, I've offered several examples of leaders at various crossroads. And I've invited you to not only think about but also intuitively sense their situations from a more open perspective.
+
+What might their worlds look like if open principles played a role in their situations?
+
+Imagine the executives have embraced, embodied, and practiced open values, both in their individual roles and together as an executive team. They've become aware that open leadership is necessary to move forward. To learn what they must do next, then, they open themselves up to learning what talented individuals in their organizations wish to teach them—rather than work to keep them out of the board room. Likewise, the board, too, considers striking a new balance between management and leadership. They begin approaching their work with curiousity and openness. In doing so, they recognize that *both* mindsets have the same goals: achieving goals, optimizing results, spreading a vision, and motivating people.
+
+Imagine those leaders become aware that unlearning old habits and behaviors leads to personal transformation. They thus begin working on overcoming widespread fear of "losing control" and "letting go of things," and they begin to face the new and unknown with an open mind. They begin *navigating* instead of simply *directing*, using their intuitions instead of only their rational minds. And if their talented employees support this, they too will begin to learn how important balancing leadership with management can be, because curiosity leads to learning and transformation.
+
+Imagine that people in the oranization become aware that in addition to the balance between leadership and management, they also need to begin thinking about diversity in the composition of the executive team. They soon become aware of their own role in fostering that diversity, and see difference and resistance as something healthy, a mindset that draws them further into their own growth and development (not to mention that of the entire team and organization). They do this by exploring the possibilities of increasing diversity in all layers of the organization, adding to the balance they've struck between management and leadership. And they invite everyone to contribute to this exploration, as they recognize inclusivity in acting and thinking is a prerequisite for diversity.
+
+Imagine that all this work *also* leads to construction of new criteria in the selection policy for people invited to contribute to management teams and the board—criteria that are grounded in diversity and inclusion, that embrace new views and skills.
+
+Then imagine that the choices leaders faced in those examples may have led to different—perhaps extraordinary—outcomes. Leadership talent chooses to stay at the organization because people feel invited and empowere to contribute. The organization experiences quicker, more sustainable growth and development—not just growth of the creativity and innovative mindset that keeps the organization relevant in the market, but also people's feelings of begin grenuinely valued for their contributions. People work with passion and are aware that they also (especially) have to perform, because passion and performance can go hand in hand.
+
+That's why opening up your organization to embrace leadership talent is critical to the future—not just to your organization in general, but to your role as a director of it specifically. The process begins *with you*. Exploring the pathway to openness takes courage and curiosity. But it also leads to great ideas, new possibilities, and amazing results. ◕
 
 ### Author's note
 
