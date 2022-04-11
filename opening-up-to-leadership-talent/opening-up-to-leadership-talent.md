@@ -73,7 +73,7 @@ Millennials and Generation Z want to drive social issues not only privately, but
 
 To help foster a conversation about these changes and their urgency today, I'm offering this *Open Perspective* on talent management. Here you'll read more about how executives, managers, and other leaders can respond to the development needs of young professionals today—with emphasis on the ways they can embrace open principles and practices to do it. Along the way, I present some case studies for your reflection and consideration. Drawn from my own experience as an open leader, these examples ask you to reflect on your own leadership choices and challenges as you consider becoming a more open leader yourself.
 
-I consider this an opportunity to collaborate with new generations of leaders to build more open and sustainable organization. Are you open to it, too? ◕
+I consider this an opportunity to collaborate with new generations of leaders to build more open and sustainable organizations. It takes courage. Are you open to it, too? ◕
 
 ## Elevating open leaders
 
@@ -374,7 +374,7 @@ A very talented manager had been working in my organization for several years. A
 
 Throughout this *Open Perspective*, I've offered several examples of leaders at various crossroads. And I've invited you to not only think about but also intuitively sense their situations from a more open perspective.
 
-What might their worlds look like if open principles played a role in their situations?
+What might their worlds look like if they had adopted open practices, and if open organization characteristics had played a role in their situations?
 
 Imagine the executives have embraced, embodied, and practiced open values, both in their individual roles and together as an executive team. They've become aware that open leadership is necessary to move forward. To learn what they must do next, then, they open themselves up to learning what talented individuals in their organizations wish to teach them—rather than work to keep them out of the board room. Likewise, the board, too, considers striking a new balance between management and leadership. They begin approaching their work with curiousity and openness. In doing so, they recognize that *both* mindsets have the same goals: achieving goals, optimizing results, spreading a vision, and motivating people.
 
@@ -400,7 +400,7 @@ _Join us_
 Join the community-driven, global conversation about the ways open principles change how people work, manage, and lead. Visit theopenorganization.org.
 
 _Copyright_  
-Version 1.2. Copyright © 2021 Red Hat, Inc. All written content licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. Images in Figures 1, 2, and 3 © 2021 hbrd. All rights reserved. Typeset in Red Hat and Source Serif Pro, both licensed under the SIL Open Font License.
+Version 1.3. Copyright © 2021 Red Hat, Inc. and contributors. All written content licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. Images in Figures 1, 2, and 3 © 2021 hbrd. All rights reserved. Typeset in Red Hat and Source Serif Pro, both licensed under the SIL Open Font License.
 
 [^ambassadors]: https://theopenorganization.org/roster/
 [^genz]: https://opensource.com/open-organization/17/4/openness-and-gen-z
