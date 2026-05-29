@@ -1,4 +1,5 @@
-Bryan | 2022-04-07 11:47:32 UTC | #4
+## Bryan Behrenshausen
+2022-04-07
 
 The Open Organization community is pleased to announce the release of a new issue in the *Open Perspectives* series: *Opening Up Social Impact-Focused Organizations.
 
